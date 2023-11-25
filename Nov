@@ -1,0 +1,13 @@
+const char *long_reference[] =
+  {
+    "This",
+    "program",
+    "is",
+    "free",
+    "software;",
+    "you",
+    "can",
+    "redistribute",
+    "it",
+    nullptr
+  };
